@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1ECA4722-1173-A416-A11D-7A4389073569}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AudioControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="21" Column="39" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/Enemy/Enemy.cs" />
+      <File FileName="Assets/Scripts/Enemy/EnemyAI.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerAttack.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" />
+      <File FileName="Assets/Scripts/Player/Reticle.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerAnimation.cs" />
+      <File FileName="Assets/Scripts/Skills.cs" />
+      <File FileName="Assets/Scripts/StartScene/StartSceneUIManager.cs" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WizardSurvivors" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b87ca39f-9a08-4609-b811-15d60ab19bb2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
